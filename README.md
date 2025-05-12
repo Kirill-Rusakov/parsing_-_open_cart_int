@@ -20,7 +20,7 @@
 - Transferring data to a website made on OpenCart;
 - Set up the regularity of this process using CRON;
 
-## Tools and technologies used:
+## Technologies:
 - PHP 8+;
 - MySQL;
 - Libraries: Guzzle, Didom; Krugozor/database;
