@@ -1,11 +1,11 @@
 # Парсинг и перенос данных на сайт OpenCart
 
-##Задачи:
+## Задачи:
 - Собрать данные о товарах с сайта-донора;
 - Перенос данных на сайт, сделанный на OpenCart;
 - Настроить регулярность данного процесса с помощью CRON;
 
-##Используемые инструменты и технологии:
+## Используемые инструменты и технологии:
 - PHP 8+;
 - MySQL;
 - Библиотеки: Guzzle, Didom; Krugozor/database;
@@ -15,12 +15,12 @@
 
 # Parsing and transferring data to the OpenCart website
 
-##Tasks:
+## Tasks:
 - Collect product data from the donor site;
 - Transferring data to a website made on OpenCart;
 - Set up the regularity of this process using CRON;
 
-##Tools and technologies used:
+## Tools and technologies used:
 - PHP 8+;
 - MySQL;
 - Libraries: Guzzle, Didom; Krugozor/database;
